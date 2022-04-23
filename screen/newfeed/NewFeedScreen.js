@@ -1,7 +1,7 @@
 import {Text, View, ScrollView, Image} from 'react-native';
 import React, {Component} from 'react';
 import styles from './styles/NewFeedStyles';
-import {FontAwesomeIcon} from '@fortawesome/react-native-fontawesome';
+import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
 import {faCamera, faPenClip, faEllipsis} from '@fortawesome/free-solid-svg-icons';
 
 const dataAvatar = [
